@@ -1,0 +1,1 @@
+# Konfigurasi-OwnCloud-di-Ubuntu-Server
